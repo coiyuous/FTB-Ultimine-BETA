@@ -1,4 +1,4 @@
-# FTB Ultimine
+# FTB Ultimine BETA
 
 ## Tags
 
