@@ -1,4 +1,4 @@
-# FTB Ultimine BETA
+# FTB Ultimine BETA ADDON
 Just the Beta uploads of FTB Ultimine
 ## Tags
 
